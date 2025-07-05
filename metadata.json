@@ -1,0 +1,5 @@
+{
+  "name": "Timetable Scheduler",
+  "description": "A web application to visually create and manage your daily schedule. Add events with specific durations or at point-in-time, and see them laid out on a 24-hour timeline. You can also edit and delete any scheduled item.",
+  "requestFramePermissions": []
+}
